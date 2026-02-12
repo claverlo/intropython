@@ -48,4 +48,4 @@ if "mango" in fruit:
     print("Yes, mango is in the list!") # will print = Yes, mango is in the list!
 
 # LIST LENGTH
-print(len(fruit)) # of items in the list( most oen created) it will print = 5
+print(len(fruit)) # of items in the list( most oen created) it will print = 5/ len() = “length”
